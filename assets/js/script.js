@@ -1,3 +1,5 @@
+// Integrantes: Pablo Troncoso, Romina Valenzuela
+
 // Construccion patron modulo
 let iife = (function () {
   // Función privada para insertar el video en el documento HTML
